@@ -1,0 +1,36 @@
+.agent-form {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 4px;
+}
+
+.agent-form .form-group {
+    margin-bottom: 15px;
+}
+
+.agent-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.agent-form input[type="text"],
+.agent-form input[type="checkbox"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.agent-form button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.agent-form button:hover {
+    background-color: #0056b3;
+}
